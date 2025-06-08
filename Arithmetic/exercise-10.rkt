@@ -1,8 +1,6 @@
-;;; Exercise 1.1: Basic arithmetic operations
+; My solution for an exercise to remove the charachter in a specific index.
 
-;; Solution to exercises from 1 to 4
 
-; Function to delete the i-th character
 (define (delete-char-at-index str i)
   (string-append
    (substring str 0 i)
@@ -13,5 +11,4 @@
 (delete-char-at-index "hello" 1)   ; Deletes 'e' -> "hllo"
 (delete-char-at-index "hello" 4)   ; Deletes 'o' -> "hell"
 (delete-char-at-index "a" 0)       ; Deletes 'a' -> "" (empty string)
-
 

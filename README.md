@@ -3,7 +3,7 @@
 This repo contains my solutions to the exercises in *How to Design Programs (HtDP)*.
 
 ## ✅ Progress Tracker
-- [] Chapter 1 – Arithmetic and Strings
+- [x] Chapter 1 – Arithmetic and Strings
 - [ ] Chapter 2 – Conditionals
 - [ ] Chapter 3 – Functions
 
